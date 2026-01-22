@@ -1,0 +1,20 @@
+CountingRooms - Broj soba u zgradi: dan je 2D prikaz gdje su podovi i zidovi, traži se broj povezanih regija podova.
+Labirint - Nađi put iz početka do kraja u labirintu (grid), moguće kretanje gore, dolje, lijevo, desno.
+BuildingRoads/IzgradnjaCeste - Treba izgraditi ceste da postoje svi mogući putevi
+MessageRoute - Nađi najkraći put između računala 1 i n, ispiši put ili IMPOSSIBLE.
+BuildingTeams/Timovi - Podijeli učenike u dva tima tako da prijatelji ne budu u istom timu, ili IMPOSSIBLE.
+RoundTrip - Byteland i ceste. Može se ići i naprijed i nazad.
+Monsters - Pobjegni iz labirinta prije nego što te uhvate čudovišta, ispiši jedan validan put.
+ShortestRoutes1 - Najkraći putovi od Syrjälä do svih gradova (Dijkstra).
+ShortestRoutes2 - Najkraći putovi između svih parova gradova (Floyd-Warshall ili više Dijkstra).
+HighScore - Maksimalni rezultat od sobe 1 do n u igri sa sobama i tunelima, otkrivanje beskonačnog rezultata.
+FlightDiscount - Najjeftinija ruta s jednim popustom na let.
+CycleFinding - Detekcija negativnog ciklusa u usmjerenom grafu ako postoji.
+FlightRoutes - k najkraćih letova od Syrjälä do Metsälä, dozvoljeni ponovni posjeti gradova.
+RoundTrip2 - Byteland i avioni. Jednosmjerno.
+CourseSchedule - Redoslijed polaganja predmeta prema uvjetima, ispiši redoslijed ili IMPOSSIBLE.
+LongestFlightRoute - Najviše gradova, želi odabrati rutu koja prolazi kroz najveći broj gradova.
+GameRoutes - Igra ima razine, treba doći od 1 do n, ispiši broj načina za riješiti.
+PlanetQueries - Počinje na x i ide kroz k teleportova, na koji planet stižemo?
+RoadConstruction - Nema cesta...?
+Investigation - Four questions
